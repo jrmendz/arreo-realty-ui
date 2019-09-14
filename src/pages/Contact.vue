@@ -31,7 +31,7 @@
                             </p>
         <div class="row">
           <div class="col-lg-6 text-center ml-auto mr-auto col-md-8">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3864.9065503646016!2d121.0458021145653!3d14.374818586424212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d1dfb5ab5411%3A0xe60f09f4c8b7b984!2sArreo%20Realty!5e0!3m2!1sen!2sph!4v1568482312459!5m2!1sen!2sph" width="530" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3864.9065503646016!2d121.0458021145653!3d14.374818586424212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397d1dfb5ab5411%3A0xe60f09f4c8b7b984!2sArreo%20Realty!5e0!3m2!1sen!2sph!4v1568482312459!5m2!1sen!2sph" width="100%" height="30%" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
             <br>
             <p>
               Phone number: 09176173375 / 09392584711
