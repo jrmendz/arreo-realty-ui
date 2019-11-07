@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-4 col-md-6 footer-widget">
-        <!-- <img src="img/logo.png" alt=""> -->
+        <img src="img/logo.png" alt="">
         <p>LET ARREO REALTY KNOW WHAT MATTER MOST TO YOU IN A HOME OR OFFICE AND WE’LL FIND YOU WITH PROPERTIES THAT MEET YOUR DEMANDS</p>
         <div class="social">
           <a href="https://www.facebook.com/arreorealtyexchangeinc/" target="_blank"><i class="fa fa-facebook"></i></a>

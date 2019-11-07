@@ -159,8 +159,7 @@
             <h5>Engr. Jinsun Piquero Ursos</h5>
             <span>Senior Project Manager</span>
             <br>
-            <p>Jinsun is the Senior Project engineer of Arreo Realty.
-              A young entrepreneur who is also the CEO of Arreo’s sister company, Arreo Contractors, Inc.</p>
+            <p>Jinsun is the Senior Project engineer of Arreo Realty.</p>
             <p>Arreo Realty witnesses Jinsun’s great transformation, from a newly graduate Civil Engineer to a full-pledge project manager.
               Every real estate project involves multiple vendors, landlords, brokers, architects, engineers, general contractors –
               all with priorities revolving around the bottom lines, portfolios and convenience.
