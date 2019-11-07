@@ -156,7 +156,7 @@
             </div>
           </div>
           <div class="col-lg-3 col-md-6">
-            <h5>Engr. Jinsun Piquero Ursos</h5>
+            <h5>Jinsun Piquero Ursos</h5>
             <span>Senior Project Manager</span>
             <br>
             <p>Jinsun is the Senior Project engineer of Arreo Realty.</p>
