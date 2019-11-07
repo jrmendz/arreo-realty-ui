@@ -146,7 +146,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h5>Engr. Jinsun Piquero Ursos</h5>
+                <h5>Jinsun Piquero Ursos</h5>
                 <span>Senior Project Manager</span>
                 <!-- <div class="member-contact">
                   <p><i class="fa fa-phone"></i>(567) 666 121 2243</p>
