@@ -51,7 +51,7 @@
                 </div>
                 <div class="col-md-12">
                   <textarea placeholder="Your message"></textarea>
-                  <button class="site-btn">SUMMIT NOW</button>
+                  <button class="site-btn">SUBMIT NOW</button>
                 </div>
               </div>
             </form>

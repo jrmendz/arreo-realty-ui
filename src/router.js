@@ -4,6 +4,7 @@ import Home from './pages/HomePage.vue';
 import About from './pages/AboutPage.vue';
 import Contact from './pages/ContactPage.vue';
 import Service from './pages/ServicePage.vue';
+import AddListing from './pages/AddListing.vue';
 import HeaderComponent from './layout/HeaderComponent.vue';
 import FooterComponent from './layout/FooterComponent.vue';
 
@@ -43,6 +44,15 @@ export default new Router({
       path: '/service',
       name: 'service',
       components: { default: Service, header: HeaderComponent, footer: FooterComponent},
+      props: {
+        header: { colorOnScroll: 400 },
+        footer: { backgroundColor: 'black' }
+      }
+    },
+    {
+      path: '/add-listing',
+      name: 'add-listing',
+      components: { default: AddListing, header: HeaderComponent, footer: FooterComponent},
       props: {
         header: { colorOnScroll: 400 },
         footer: { backgroundColor: 'black' }

@@ -4,7 +4,7 @@
       <div class="container hero-text text-white">
         <h2>Arreo Realty Exchange Inc.</h2>
         <p>LET ARREO REALTY KNOW WHAT MATTER MOST TO YOU IN A HOME OR OFFICE <br /> AND WE’LL FIND YOU WITH PROPERTIES THAT MEET YOUR DEMANDS</p>
-        <router-link to="/service" class="site-btn">VIEW DETAIL</router-link>
+        <router-link to="/service" class="site-btn">VIEW DETAILS</router-link>
       </div>
     </section>
     <SearchFilterComponent></SearchFilterComponent>

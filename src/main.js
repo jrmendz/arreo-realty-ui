@@ -5,6 +5,13 @@ import router from './router'
 import store from './store/index'
 import _ from 'lodash'
 
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faThLarge, faBed, faAlignJustify, faBath, faCar, faRulerCombined, faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+
+library.add(faThLarge, faBed, faAlignJustify, faBath, faCar, faRulerCombined, faMapMarkerAlt)
+
+Vue.component('font-awesome-icon', FontAwesomeIcon)
 
 Vue.config.productionTip = false
 
